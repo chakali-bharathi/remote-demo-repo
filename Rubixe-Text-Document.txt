@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RUBIXE</title>
+<link rel="stylesheet" href="./rubixe.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</head>
+<body>
+<h1 class="text-center col-lg-4 col-sm-12">RUBIXE COMPANY</h1>  
+<p class="text-center col-lg-8 col-sm-12">Rubixe™ is a global technology company specializing in 
+disruptive technologies <br> – Artificial Intelligence (AI), Machine Learning, 
+Robotic Process Automation (RPA), <br> BlockChain and Internet of Things (IoT). 
+Rubixe mission to enable businesses to <br>leverage the full potential of disruptive 
+technologies to staycompetitive in the market.</p>
+<div class="rubixe">
+<div class="container-fluid">
+<div class="row">
+<div class="col-lg-2 col-sm-12">
+<div class="a">
+<h6>01</h6>
+<img src="./ashok1.jpg" alt="" height="120px" width="120px">
+<h3> &nbsp;&nbsp;ASHOK</h3>
+<h4>Founder & CEO <br> of the company</h4>
+</div>
+</div>
+<div class="col-lg-2 col-sm-12">
+<div class="a">
+<h6>02</h6>
+<img src="./ranjith (1).jpg" alt="" height="120px" width="120px">
+<h3>RANJITH KUMAR</h3>
+<h4>Director of technology</h4>
+</div>
+</div>
+<div class="col-lg-2 col-sm-12">
+<div class="a">
+<h6>03</h6>
+<img src="./shiva.jpg" alt="" height="120px" width="120px">
+<h3>SHIVA PRASAD</h3>
+<h4>Program Manager</h4>
+</div>
+</div>
+<div class="col-lg-2 col-sm-12">
+<div class="a">
+<h6>04</h6>
+<img src="./deepak-profile.jpg" alt="" height="120px" width="120px">
+<h3>DEEPAK KUMAR</h3>
+<h4>Marketing Director</h4>
+</div>
+</div>
+<div class="col-lg-2 col-sm-12">
+<div class="a">
+<h6>05</h6>
+<img src="./sowmya.jfif" alt="" height="120px" width="120px">
+<h3>SOWMYA SHIVANAD</h3>
+<h4>Team Leed</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
